@@ -17,7 +17,7 @@
     "require": {
         "php": ">=8.1.0",
         "symfony/deprecation-contracts": "^2.5|^3",
-        "tijsverkoyen/css-to-inline-styles": "v2.3.*",
+        "tijsverkoyen/css-to-inline-styles": "dev-master#d54bdf396b5e549ccba3e611e5c0c07f569bc3ac",
         "twig/twig": "^3.13|^4.0"
     },
     "require-dev": {
